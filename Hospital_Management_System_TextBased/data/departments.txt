@@ -1,0 +1,5 @@
+D001,Cardiology,Dr. Sharma
+D002,Neurology,Dr. Patel
+D003,Orthopedics,Dr. Mehta
+D004,Pediatrics,Dr. Sinha
+D005,General Medicine,Dr. Verma

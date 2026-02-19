@@ -1,0 +1,6 @@
+101,Available,500,General Bed 1
+102,Occupied,500,General Bed 2
+103,Available,500,General Bed 3  
+104,Available,500,General Bed 4
+201,Available,1500,Private Room
+301,Available,3000,ICU Bed 1

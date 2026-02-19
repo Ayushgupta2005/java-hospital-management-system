@@ -1,0 +1,5 @@
+E001,Dr. Avigya Thapa,Doctor,D001,100000.00,thapa@hospital.com,Cardiologist,Morning,9876543210
+E002,Dr. Anirudh Pradhan,Doctor,D002,95000.00,pradhan@hospital.com,Neurologist,Night,9876543220
+E003,Nurse Vinsyasha Thapa,Nurse,D003,50000.00,vthapa@hospital.com,ICU Nurse,Evening,9876543230
+E004,Dr. Aditya Sharma,Administrator,D004,60000.00,sharma@hospital.com,Admin Staff,Day,9876543240
+E005,Dr. Shad Hussain,Doctor,D005,110000.00,hussain@hospital.com,Surgeon,Morning,9876543250
